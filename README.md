@@ -13,7 +13,7 @@
 <a href="https://github.com/tegzxy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-T3G4RXZY-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/A187ID/T3G4RXZY"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
+<a href="https://www.codefactor.io/repository/github/A187ID/T3G4RXZY"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/T3G4RXZY/badge/main"></a>
 </p>
 <p align="center">
 <a href="https://github.com/A187ID/AR15BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/A187ID?color=blue&style=flat-square"></a>
