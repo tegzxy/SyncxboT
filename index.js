@@ -19,7 +19,7 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
     A187: '👾SYNCXBOT👾',
-    instagram: 'https://instagram.com/_sadboy.ig',
+    instagram: 'https://www.instagram.com/tegarxzy/',
     nomer: 'wa.me/6289503294960',
     aktif: '24 JAM',
     Instagram: 'https://www.instagram.com/tegarxzy/',
