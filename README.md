@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm SyncxboT
 <p align="center">
-<img src="https://www.google.com/search?q=profile%20anime&tbm=isch&hl=id&safe=strict&tbs=rimg:CW_1G7FHnOg-wYaHAtlAUkHZb&client=ms-android-oppo&prmd=inv&sa=X&ved=0CBIQuIIBahcKEwi4s8fJ4cntAhUAAAAAHQAAAAAQBg&biw=360&bih=676#imgrc=9EfiuvAhFCLz_M&imgdii=xxAoz-WZU5NY1M" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/temp/A187.jpg" width="230" height="230"/>
 </p>
 <br>
 
